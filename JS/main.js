@@ -81,11 +81,11 @@ const menu = [
   },
   {
     id: 10,
-    title: "bison steak",
-    category: "dinner",
+    title: "Filete de bisonte",
+    category: "Cena",
     price: 22.99,
     img: "img/item-10.jpeg",
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `Filete de bisonte con un toque auténtico, con una presentación única que incluye bordes crujientes. Ideal para los amantes de la carne.`,
   },
 ];
 
